@@ -1,0 +1,222 @@
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-logo="" group-title="",BAND
+http://165.227.65.252/bandhd/tracks-v1a1/index.m3u8?pxAuth=bXXz9VX7xI2LWre1QuuuR3xXYOvxvFUf
+
+#EXTINF:0 tvg-logo="" group-title="",RECORD
+http://165.227.180.24/recordhd/tracks-v1a1/index.m3u8?pxAuth=GA2vKSwKQ5Cqp0Ygr4INbtytufNsnlHG
+
+#EXTINF:0 tvg-logo="" group-title="",GLOBO
+http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/index.m3u8?pxAuth=inFXb9sJrpS4YI9SNg0a2BqirGeJYnXT
+
+#EXTINF:0 tvg-logo="" group-title="",REDE TV
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1748807227.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",SBT 
+http://165.227.180.24/sbthd/tracks-v1a1/index.m3u8?pxAuth=kP2zNtvdVrTOMSsDEsZIlMVQYodKuQAG
+
+#EXTINF:0 tvg-logo="" group-title="",TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w427693251.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV FOCO
+http://177.73.84.49/hls/live/live.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",TV CULTURA 
+http://174.138.63.249/cultura/tracks-v1a1/index.m3u8?pxAuth=kPY9LPQ64D3WIhTFTazv2jgsuZCMA3dU
+
+#EXTINF:0 tvg-logo="" group-title="",TV ESCOLA
+https://slbps-sambatech.akamaized.net/live/348%2C1586%2C7e49d4c314175751675132379c09bfc5%3Bbase64np%3BwJc_sU5fkDpFL1o%21/amlst%3AwJfHqFMUlTtab9aE/chunklist_b884736.m3u8?sts=st=1516299754~exp=1516306354~acl=/*~hmac=b8afa994beb8e6fa5e31c3befe2343164e17dcd3f200b7751a3d3f5ccb83c9df
+
+#EXTINF:0 tvg-logo="" group-title="",TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w1052039345_b2128000_slpor.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="",VIVA
+https://rtmp.cdn.upx.net.br/74cc/myStream.sdp/chunklist_w1372656730.m3u8
+
+
+#EXTINF:0 tvg-logo="" group-title="",//////////////DOCUMENTÁRIOS\\\\\\\\\\\\\\
+
+
+
+#EXTINF:0 tvg-logo="" group-title="",ANIMAL PLANET 
+http://174.138.63.249/animalplanethd/tracks-v1a1/index.m3u8?pxAuth=WmWrvnIBZFmb627kqKyJ56smVaHXcJ1Z
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY CHANNEL 
+http://165.227.180.24/discoverychannel/tracks-v1a1/index.m3u8?pxAuth=ly1C3oInUFFP5nUa749gBAGJ6IIJre62
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY H&H 
+http://174.138.63.249/discoveryhomehealth/tracks-v1a1/index.m3u8?pxAuth=BCLMUYmTXoifZS2tsTlnrmbTYsSvHDnH
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY ID
+http://165.227.180.24/investigacaodiscoveryhd/tracks-v1a1/index.m3u8?pxAuth=7zcsafeh7541iUVUwD7sQe6aywzoO83l
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY TURBO
+http://165.227.65.252/discoveryturbohd/tracks-v1a1/index.m3u8?pxAuth=4gbVaqcA3EqEZMPpwE5hC6mPqA7xe5OV
+
+#EXTINF:0 tvg-logo="" group-title="",DISCOVERY WORLD
+http://165.227.65.252/discoveryworldhd/tracks-v1a1/index.m3u8?pxAuth=gko2BSQWXHgqkxbSMPB5L6Kzqk8sfonx
+
+#EXTINF:0 tvg-logo="" group-title="",HISTORY
+http://165.227.180.24/historyhd/tracks-v1a1/index.m3u8?pxAuth=NjXc5KLuEaY91BcRbwzJaE3KqjKRfNLJ
+
+#EXTINF:0 tvg-logo="" group-title="",HISTORY 2
+http://174.138.63.249/h2hd/tracks-v1a1/index.m3u8?pxAuth=TSLoUIKagJwZkcRf2u8XaR8LYqPLdlfa
+
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO
+http://165.227.180.24/natgeohd/tracks-v1a1/index.m3u8?pxAuth=MWTDnIl6t1HYNnrlvrqoNsZRBMnqSDbp
+
+#EXTINF:0 tvg-logo="" group-title="",NAT GEO WILD
+http://85.204.124.42:8081/live/animal/chunks.m3u8?nimblesessionid=4886401&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNi8yMDE4IDE6MjI6MjEgUE0maGFzaF92YWx1ZT1qWlFDS1JZeS95d1VDeDJnc0NpNUtRPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",TRUTV
+http://165.227.180.24/natgeowild/tracks-v1a1/index.m3u8?pxAuth=2Wkpe0xtObyJpUdXcqFsZKiogER9XtMs
+
+#EXTINF:0 tvg-logo="" group-title="",//////////////ESPORTES\\\\\\\\\\\\\\
+
+
+#EXTINF:0 tvg-logo="" group-title="",ALL SPORTS
+
+
+#EXTINF:0 tvg-logo="" group-title="",BAND SPORTS
+http://165.227.180.24/bandsportshd/tracks-v1a1/index.m3u8?pxAuth=Akmquj2bl1jX4MzDVMZIN6mOK3d5b8o7
+
+#EXTINF:0 tvg-logo="" group-title="",COMBATE
+https://симпатичныеы.рф/~deluxor/ch0003660/151696272397838265.ts
+
+#EXTINF:0 tvg-logo="" group-title="",EI MAXX
+http://165.227.35.239/loadbalance/max1/chunks.m3u8?pxAuth=W2ha29IhsdiBjrP0Iu3DAwLEKT9uZYuy
+
+#EXTINF:0 tvg-logo="" group-title="",EI MAXX BR
+http://174.138.63.249/esporteinterativobrhd/tracks-v1a1/index.m3u8?pxAuth=HzEVKK1xIjcMfm7x2mfm2vfXzSfkx3ot
+
+#EXTINF:0 tvg-logo="" group-title="",EI MAXX 2
+http://174.138.63.249/esporteinterativo2hd/tracks-v1a1/index.m3u8?pxAuth=PqdRrmxfFKaPqykTH4I8XMfwATw5GIJs
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN
+http://165.227.180.24/espnhd/tracks-v1a1/index.m3u8?pxAuth=kFqv5frELqfn7kEkBhrfaEttqlyhdzPq
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN BRASIL
+http://165.227.180.24/espnbrasilhd/tracks-v1a1/index.m3u8?pxAuth=02q0DEwRmRLsS1ZJqBeo350pHHFJHXOc
+
+#EXTINF:0 tvg-logo="" group-title="",ESPN +
+http://165.227.180.24/espnmais/tracks-v1a1/index.m3u8?pxAuth=Pguc7UwQTDiAkqAiHSGXL4h7XlasMqyq
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS
+http://174.138.63.249/foxsportshd/tracks-v1a1/index.m3u8?pxAuth=MG2hbNxPF3BOffOjzJxeVlSTynY8H2mu
+
+#EXTINF:0 tvg-logo="" group-title="",FOX SPORTS 2 
+http://165.227.180.24/foxsports2hd/tracks-v1a1/index.m3u8?pxAuth=h6MJ445tIyH5oojAPSCgcV9iZkH1nujE
+
+#EXTINF:0 tvg-logo="" group-title="",SPORTV
+http://174.138.63.249/sportvhd/tracks-v1a1/index.m3u8?pxAuth=1iTgMCItCMALfxTQtj08Wplv3orH5B4B
+
+#EXTINF:0 tvg-logo="" group-title="",SPORTV 2
+http://165.227.180.24/sportv2hd/tracks-v1a1/index.m3u8?pxAuth=Z7fZ75gRzbnHHgjGMUFTLE4jiGMDwW7m
+
+#EXTINF:0 tvg-logo="" group-title="",SPORTV 3
+http://174.138.63.249/sportv3hd/tracks-v1a1/index.m3u8?pxAuth=WW69VGWno0whddb6FHeT18ZFhdTRE9kI
+
+#EXTINF:0 tvg-logo="" group-title="",PREMIERE
+http://165.227.127.140/loadbalance/sat1/chunks.m3u8?pxAuth=PfIqGQxGXuNd9EhFa4lpKEosjZUZ5LSm
+
+#EXTINF:0 tvg-logo="" group-title="",A&E
+http://165.227.180.24/ae/tracks-v1a1/index.m3u8?pxAuth=Ri3g32CG2oBQiRx7FTcFU3MoPFrQzK7s
+
+#EXTINF:0 tvg-logo="" group-title="",AXN
+http://174.138.63.249/axnhd/tracks-v1a1/index.m3u8?pxAuth=nmU8v8qoaZJaExAD0YSmr3HNYPh1O1rh
+
+#EXTINF:0 tvg-logo="" group-title="",CINEMAX
+http://174.138.63.249/cinemax/tracks-v1a1/index.m3u8?pxAuth=KSG3bVapQZh0Jp4xZlfgtX9oBw1B0yAz
+
+#EXTINF:0 tvg-logo="" group-title="",COMEDY CENTRAL
+http://174.138.63.249/comedycentral/tracks-v1a1/index.m3u8?pxAuth=MejFkSuNvuBOsWa80CFrdUy46pLtg7kS
+
+#EXTINF:0 tvg-logo="" group-title="",FOX
+http://174.138.63.249/foxhd/tracks-v1a1/index.m3u8?pxAuth=0k3XMNFpK8Jr6WOKpKJL5CdEOFqDYva0
+
+#EXTINF:0 tvg-logo="" group-title="",FOX LIFE
+http://174.138.63.249/foxlife/tracks-v1a1/index.m3u8?pxAuth=5I2I6P9L0X6oBBRglDtWckI8v34IsCrO
+
+#EXTINF:0 tvg-logo="" group-title="",FOX PREMIUM
+http://165.227.180.24/foxpremium1/tracks-v1a1/index.m3u8?pxAuth=uegwZuS4UZlSoUjtiiPyE5KRJlE76yS3
+
+#EXTINF:0 tvg-logo="" group-title="",FX
+http://165.227.65.252/fxhd/tracks-v1a1/index.m3u8?pxAuth=InAqVQC957SQuvKN4zoSFFKuKEm5jEmE
+
+#EXTINF:0 tvg-logo="" group-title="",HBO
+http://165.227.65.252/hbohd/tracks-v1a1/index.m3u8?pxAuth=CwaowPFSQmV8D4WctlwKdhQzlx2J6zM9
+
+#EXTINF:0 tvg-logo="" group-title="",HBO2
+http://165.227.180.24/hbo2hd/tracks-v1a1/index.m3u8?pxAuth=HS8j4VG4aWXhdAzB4LdTpc8ByRU3TJGP
+
+#EXTINF:0 tvg-logo="" group-title="",HBO PLUS
+http://165.227.180.24/hboplushd/tracks-v1a1/index.m3u8?pxAuth=z0jdMZqp7fcxUG7614wMnc8O8urvD1lt
+
+#EXTINF:0 tvg-logo="" group-title="",HBO FAMILY
+http://165.227.180.24/hbofamilyhd/tracks-v1a1/index.m3u8?pxAuth=IEYyjE7n046UqSo2WHhJ8PwULfc2X5Wz
+
+#EXTINF:0 tvg-logo="" group-title="",HBO SIGNATURE
+http://174.138.63.249/hbosignature/tracks-v1a1/index.m3u8?pxAuth=hhuXCDAAbPfRLYztWgOHWGlTajzw9opX
+
+#EXTINF:0 tvg-logo="" group-title="",MAX
+http://165.227.180.24/max/tracks-v1a1/index.m3u8?pxAuth=39wJHRAwPkKaIfIrnVFBDfeo1lYWbg5f
+
+#EXTINF:0 tvg-logo="" group-title="",MAX UP
+http://85.204.124.42:8081/live/maxhd/chunks.m3u8?nimblesessionid=4789016&wmsAuthSign=c2VydmVyX3RpbWU9MS8yNS8yMDE4IDM6MjI6NTAgUE0maGFzaF92YWx1ZT0vMEd2ZDFRMzdudUlPK0dPODhPT21RPT0mdmFsaWRtaW51dGVzPTEw
+
+#EXTINF:0 tvg-logo="" group-title="",MAX PRIME
+http://174.138.63.249/maxprime/tracks-v1a1/index.m3u8?pxAuth=DxyZbtOwdTiMvdMiQkdI8G1WV86NAE9J
+
+#EXTINF:0 tvg-logo="" group-title="",MEGA PIX
+http://165.227.180.24/megapixhd/tracks-v1a1/index.m3u8?pxAuth=XXNfZg7DUXGwziMgatEnbTqYsLkKRGWy
+
+#EXTINF:0 tvg-logo="" group-title="",MTV
+http://174.138.63.249/mtv/tracks-v1a1/index.m3u8?pxAuth=MsTn8ybdy7lE2p1ocN0PukE6sb7aTLQk
+
+#EXTINF:0 tvg-logo="" group-title="",PARAMOUNT
+http://165.227.180.24/paramountchannelhd/tracks-v1a1/index.m3u8?pxAuth=1dOnTwrJ2A8odi46yceCoHUdOUNfUVgH
+
+#EXTINF:0 tvg-logo="" group-title="",SONY
+http://165.227.180.24/sonyhd/tracks-v1a1/index.m3u8?pxAuth=jFqmoZ0Jn46nofL6RaeTDBkSiJMBGzJ4
+
+#EXTINF:0 tvg-logo="" group-title="",SPACE
+http://165.227.65.252/spacehd/tracks-v1a1/index.m3u8?pxAuth=weRBiVHPkR2ugVQVFsHictHtHnmaWpuE
+
+#EXTINF:0 tvg-logo="" group-title="",SYFY
+http://165.227.180.24/syfy/tracks-v1a1/index.m3u8?pxAuth=OUZ5Yh6LC2Ivn9hCxNp0Nq2jzKUXdWE1
+
+#EXTINF:0 tvg-logo="" group-title="",STUDIO UNIVERSAL
+http://165.227.180.24/universalchannelhd/tracks-v1a1/index.m3u8?pxAuth=pnqEoWjVhuzv7NBUULC35w8mUCdloPWR
+
+#EXTINF:0 tvg-logo="" group-title="",TBS
+http://165.227.65.252/tbs/tracks-v1a1/index.m3u8?pxAuth=hY3dORnfqIUag9gv7drhHTQJr61JAibW
+
+#EXTINF:0 tvg-logo="" group-title="",TCM
+http://174.138.63.249/tcm/tracks-v1a1/index.m3u8?pxAuth=LcFD3Cgz5KcJuIE3oxdC4xSNG71Dhdjk
+
+#EXTINF:0 tvg-logo="" group-title="",TNT
+http://165.227.180.24/tnt/tracks-v1a1/index.m3u8?pxAuth=GzAbjPvNwzGwV9dnquLxZvn8aeCD24Du
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE ACTION
+http://165.227.65.252/telecineaction/tracks-v1a1/index.m3u8?pxAuth=AnwjcpfLifRNdgMBShW4DeA4NcxJq5JN
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PIPOCA
+http://165.227.180.24/telecinepipocahd/tracks-v1a1/index.m3u8?pxAuth=i99E5e0JLyntdEsClOHtHVyNtBJN9HS9
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE PREMIUM
+http://165.227.65.252/telecinepremium/tracks-v1a1/index.m3u8?pxAuth=mh5O4CKQfc04dNLY1n2qZ466TTBxGTAm
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE FUN
+http://165.227.65.252/telecinefun/tracks-v1a1/index.m3u8?pxAuth=rcJUjl4YmIIladyRJGuy6TloV2szzvZ9
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE CULT
+http://165.227.65.252/telecinecult/tracks-v1a1/index.m3u8?pxAuth=BN6a3oLEfcR1nk8EOsBG9Yup8gFzOGW7
+
+#EXTINF:0 tvg-logo="" group-title="",TELECINE TOUCH
+http://165.227.180.24/telecinetouchhd/tracks-v1a1/index.m3u8?pxAuth=qGxwBRrGJ2rSp5GAeGLsfoupHHE9vBrc
+
+#EXTINF:0 tvg-logo="" group-title="",WARNER CHANNEL
+http://165.227.180.24/warnerchannelhd/tracks-v1a1/index.m3u8?pxAuth=s0qJyvjIaTgTtwH8TlT7KQZLjZj4Jaby
+
